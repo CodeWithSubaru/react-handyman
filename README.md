@@ -48,3 +48,9 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## Issues in application
+
+In Push notification, when user navigates to url which provided by the notification, user will go to the url but then it gets to homepage after seconds.
+
+And also, it doesn't trigger respectively on what its defined on trigger object of notifications. It notifies instantly without a delay.
